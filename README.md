@@ -34,7 +34,7 @@ python -u main_R.py -v WMFTrainer -d ml-100k -i 100
 Any scientific publications that use our codes should cite the following paper as the reference:
 
  ```
- @inproceedings{Zhang-KDD-2021,
+ @inproceedings{zhang&tian2021data,
      title = "Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data",
      author = {Hengtong Zhang and
      		  Changxin Tian and
